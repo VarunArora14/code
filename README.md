@@ -1,2 +1,2 @@
-# code
-Contains all codes and work
+# Stacks
+Implementation of different operations on stacks.
