@@ -1,2 +1,2 @@
-# Stacks
-Implementation of different operations on stacks.
+# Sorting-Searching-Algorithms
+Implementation &amp; results of different sorting &amp; searching Algorithms
